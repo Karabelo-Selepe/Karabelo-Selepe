@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karabelo-Selepe
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming/ Software Development as a whole
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
