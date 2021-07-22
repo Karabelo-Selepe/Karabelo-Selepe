@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Karabelo-Selepe
-- 👀 I’m interested in Programming/ Software Development as a whole
-- 🌱 I’m currently learning Python 3
+- 👋 Hi, I’m Karabelo Selepe
+- 👀 I’m interested in Web Development as a whole
+- 🌱 I’m currently learning Python 3, Angular, ReactNative
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
