@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karabelo Selepe
-- 👀 I’m interested in Web Development as a whole
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python 3, Angular, ReactNative
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
