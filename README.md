@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karabelo Selepe
 - 👀 I’m interested in Web and Mobile Application Development
-- 🌱 I’m currently self-learning Full Stack Web Development with Angular & ReactJS, And Mobile Application Development with React Native.
+- 🌱 I’m currently self-learning Full Stack Web Development in Angular & ReactJS, And Full Stack Mobile Development in React Native & Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
